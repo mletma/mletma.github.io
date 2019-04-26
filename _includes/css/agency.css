@@ -876,14 +876,14 @@ body {
 
 .countdown-word {
     display: inline-block;
-    width: 200px;
+    width: 49%;
     text-align: left;
     font-size: x-large;
 }
 
 .countdown-int {
     font-size: xx-large;
-    width: 150px;
+    width: 49%;
     display: inline-block;
     text-align: right;
     padding-right: 0.5em;
