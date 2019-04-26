@@ -229,7 +229,7 @@
         date: null,
         fast: false,
         end: $.noop,
-        text: "%s jours, %s heures, %s minutes, %s secondes"
+        text: "%s jours<br>%s heures<br>%s minutes<br>%s secondes"
     };
 
     // Set default settings
