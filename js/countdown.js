@@ -229,7 +229,11 @@
         date: null,
         fast: false,
         end: $.noop,
-        text: "%s jours<br>%s heures<br>%s minutes<br>%s secondes"
+        text: '<div class="countdown-int">%s</div> <div class="countdown-word">jours</div><br> \
+               <div class="countdown-int">%s</div> <div class="countdown-word">heures</div><br> \
+               <div class="countdown-int">%s</div> <div class="countdown-word">minutes</div><br> \
+               <div class="countdown-int">%s</div> <div class="countdown-word">secondes</div> \
+              '
     };
 
     // Set default settings
